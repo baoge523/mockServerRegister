@@ -1,0 +1,8 @@
+server:
+  port: 9001
+
+life:
+  client:
+     hostName: 127.0.0.1
+     appName: client1
+     defaultZone: http://localhost:8001/api/register

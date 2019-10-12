@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-9001" />
+        <module name="client-9002" />
+        <module name="client-dependency" />
+        <module name="server-8001" />
+        <module name="server-api" />
+        <module name="serverapi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-9001" target="1.8" />
+      <module name="client-9002" target="1.8" />
+      <module name="client-dependency" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="server-8001" target="1.8" />
+      <module name="server-api" target="1.8" />
+      <module name="serverapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-9001/client-9001.iml" filepath="$PROJECT_DIR$/client-9001/client-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-9002/client-9002.iml" filepath="$PROJECT_DIR$/client-9002/client-9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-dependency/client-dependency.iml" filepath="$PROJECT_DIR$/client-dependency/client-dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-8001/server-8001.iml" filepath="$PROJECT_DIR$/server-8001/server-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-api/server-api.iml" filepath="$PROJECT_DIR$/server-api/server-api.iml" />
+    </modules>
+  </component>
+</project>

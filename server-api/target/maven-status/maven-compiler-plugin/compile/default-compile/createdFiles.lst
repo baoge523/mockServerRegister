@@ -1,0 +1,3 @@
+life\server\dto\InstanceInfo.class
+life\server\dto\HeartbeatResponse.class
+life\server\util\SendUtil.class

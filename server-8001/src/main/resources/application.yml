@@ -1,0 +1,6 @@
+server:
+  port: 8001
+
+register:
+  cycle: 5
+  maxTime: 20
